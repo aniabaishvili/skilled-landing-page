@@ -1,5 +1,6 @@
-## Here is my next fronted mentor 
+
 # Skilled elearning landind page
+## Here is my next frontend mentor challenge 
 ### In this project i learned:
 * responsive design
 * mobile-first approach
