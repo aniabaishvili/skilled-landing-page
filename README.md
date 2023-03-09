@@ -1,4 +1,4 @@
-## Here is my next 
+## Here is my next fronted mentor 
 # Skilled elearning landind page
 ### In this project i learned:
 * responsive design
