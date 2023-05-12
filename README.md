@@ -1,6 +1,6 @@
 # Frontend Mentor - Skilled e-learning landing page
 
-## Here is my next frontend mentor challenge 
+This is a solution to the [Skilled e-learning landing page challenge on Frontend Mento
 ### In this project i learned:
 * responsive design
 * mobile-first approach
